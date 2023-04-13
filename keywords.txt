@@ -1,0 +1,37 @@
+########################################################
+#Coloring Map For BM2102-9x-1 library
+########################################################
+########################################################
+#Classes and Objects (KEYWORD1)
+########################################################
+BM2102_9x_1	KEYWORD1
+########################################################
+#Methods and Functions (KEYWORD2)
+########################################################
+beginTransmission	KEYWORD2
+endTransmission	KEYWORD2
+isRFbusy	KEYWORD2
+getFWVer	KEYWORD2
+setRFPower	KEYWORD2
+setRFFrequencyBand	KEYWORD2
+writeBytes	KEYWORD2
+readBytes	KEYWORD2
+########################################################
+#Constants (LITERAL1)
+########################################################
+SUCCESS	LITERAL1
+FAIL	LITERAL1 
+TIMEOUT_ERROR	LITERAL1 
+BMC21M0x1_BAUD	LITERAL1
+IIC_DR	LITERAL1
+IIC_MODE	LITERAL1
+UART_MODE	LITERAL1
+BM2102_9x_1_Addr	LITERAL1
+RF_315MHz	LITERAL1
+RF_433_92MHz	LITERAL1
+RF_868MHz	LITERAL1
+RF_915MHz	LITERAL1
+RF_0dBm_power	LITERAL1
+RF_5dBm_power	LITERAL1
+RF_10dBm_power	LITERAL1
+RF_13dBm_power	LITERAL1
