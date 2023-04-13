@@ -7,6 +7,16 @@ BM2102-9x-1
 
 The BM2102-9x-1 is a Sub-1G OOK transmitter transparent transmission module from the Best Modules, which uses the I2C/UART communication method. This document describes the Arduino Lib function of the BM2102-9x-1 and how to install the Arduino Lib. The example demonstrates how to use the BMC21M0x1 module to pair with the Sub-1G OOK receiver transparent transmission module BMC23M0x1, data exchange and other functions.
 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                                           |
+|:---------:|:----------------------------------------------------:|
+|BM2102-9x-1|Sub-1G OOK transmitter transparent transmission module|
+|BMC21M0x1  |On-board BM2102-9x-1 module                           |
+
+</div> 
+
 This library can be installed via the Arduino Library manager. Search for **BM2102-9x-1**. 
 
 Repository Contents
